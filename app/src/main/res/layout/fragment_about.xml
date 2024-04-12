@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height= "match_parent"
+    android:background="@drawable/bg"
+    tools:context=".Message">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_marginBottom="55dp" >
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="About"
+            android:textSize="24dp"
+            android:textStyle="bold"
+            android:layout_gravity="center_horizontal" />
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:fillViewport="true">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height= "wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Earthquake, any jolt or trembling of the ground brought on by seismic waves moving through the rocks of the planet. When a kind of energy that has been trapped in the Earth’s crust for a long time suddenly escapes, seismic waves are created.
+The disaster caused by the earthquake has destroyed many lives, destroyed infrastructure, and destroyed landscapes that have lost their beauty."
+                    android:textSize="20sp"
+                    android:padding="8dp"
+                    android:layout_gravity="center_horizontal"
+                    android:gravity="center"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="On first icon you can see the previous earthquake that happen in the Philippines."
+                    android:textSize="20sp"
+                    android:padding="8dp"
+                    android:layout_gravity="center_horizontal"
+                    android:gravity="center" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="In second icon you can see the message you recieved on the earthquake detector."
+                    android:textSize="20sp"
+                    android:padding="8dp"
+                    android:layout_gravity="center_horizontal"
+                    android:gravity="center"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="The third icon you can see the earthquake drill that you need to do once there's an earthquake."
+                    android:textSize="20sp"
+                    android:padding="8dp"
+                    android:layout_gravity="center_horizontal"
+                    android:gravity="center"/>
+
+            </LinearLayout>
+        </ScrollView>
+    </LinearLayout>
+</FrameLayout>
