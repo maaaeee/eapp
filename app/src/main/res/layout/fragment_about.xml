@@ -41,6 +41,17 @@ The disaster caused by the earthquake has destroyed many lives, destroyed infras
                     android:layout_gravity="center_horizontal"
                     android:gravity="center"/>
 
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="The purpose of this applicatipn is to send the alert messages to the students and stuff of Pamantasan ng Lungsod ng MUntinlupa when there's an earthquake incident inside the unversity. "
+                    android:textSize="20sp"
+                    android:padding="8dp"
+                    android:layout_gravity="center_horizontal"
+                    android:gravity="center" />
+
+
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
