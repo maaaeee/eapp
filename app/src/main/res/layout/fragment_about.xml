@@ -44,7 +44,7 @@ The disaster caused by the earthquake has destroyed many lives, destroyed infras
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="On first icon you can see the previous earthquake that happen in the Philippines."
+                    android:text="On this application you can see the messages when there's an earthquake with magnitude."
                     android:textSize="20sp"
                     android:padding="8dp"
                     android:layout_gravity="center_horizontal"
@@ -53,16 +53,7 @@ The disaster caused by the earthquake has destroyed many lives, destroyed infras
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="In second icon you can see the message you recieved on the earthquake detector."
-                    android:textSize="20sp"
-                    android:padding="8dp"
-                    android:layout_gravity="center_horizontal"
-                    android:gravity="center"/>
-
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:text="The third icon you can see the earthquake drill that you need to do once there's an earthquake."
+                    android:text="Also you can see the earthquake drill taht you need to do when there's an earthquake."
                     android:textSize="20sp"
                     android:padding="8dp"
                     android:layout_gravity="center_horizontal"

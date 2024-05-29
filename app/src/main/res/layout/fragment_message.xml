@@ -15,11 +15,127 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Messages0"
+            android:text="Messages"
             android:textSize="26dp"
             android:textStyle="bold"
             android:layout_gravity="center_horizontal" />
 
+        <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Earthquake Detected! with the magnitude of 6.9. PLease Evacuate! "
+        android:textSize="20sp"
+        android:padding="8dp"
+        android:layout_gravity="center_vertical"
+        android:gravity="left"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Earthquake Detected! with the magnitude of 5.0. PLease Evacuate! "
+            android:textSize="20sp"
+            android:padding="8dp"
+            android:layout_gravity="center_vertical"
+            android:gravity="left"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Earthquake Detected! with the magnitude of 4.3. PLease Evacuate! "
+            android:textSize="20sp"
+            android:padding="8dp"
+            android:layout_gravity="center_vertical"
+            android:gravity="left"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Earthquake Detected! with the magnitude of 5.7. PLease Evacuate! "
+            android:textSize="20sp"
+            android:padding="8dp"
+            android:layout_gravity="center_vertical"
+            android:gravity="left"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Earthquake Detected! with the magnitude of 3.9. PLease Evacuate! "
+            android:textSize="20sp"
+            android:padding="8dp"
+            android:layout_gravity="center_vertical"
+            android:gravity="left"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Earthquake Detected! with the magnitude of 6.1. PLease Evacuate! "
+            android:textSize="20sp"
+            android:padding="8dp"
+            android:layout_gravity="center_vertical"
+            android:gravity="left"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Earthquake Detected! with the magnitude of 7.2. PLease Evacuate! "
+            android:textSize="20sp"
+            android:padding="8dp"
+            android:layout_gravity="center_vertical"
+            android:gravity="left"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Earthquake Detected! with the magnitude of 4.8. PLease Evacuate! "
+            android:textSize="20sp"
+            android:padding="8dp"
+            android:layout_gravity="center_vertical"
+            android:gravity="left"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Earthquake Detected! with the magnitude of 5.5. PLease Evacuate! "
+            android:textSize="20sp"
+            android:padding="8dp"
+            android:layout_gravity="center_vertical"
+            android:gravity="left"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Earthquake Detected! with the magnitude of 6.8. PLease Evacuate! "
+            android:textSize="20sp"
+            android:padding="8dp"
+            android:layout_gravity="center_vertical"
+            android:gravity="left"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Earthquake Detected! with the magnitude of 7.0. PLease Evacuate! "
+            android:textSize="20sp"
+            android:padding="8dp"
+            android:layout_gravity="center_vertical"
+            android:gravity="left"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Earthquake Detected! with the magnitude of 6.5. PLease Evacuate! "
+            android:textSize="20sp"
+            android:padding="8dp"
+            android:layout_gravity="center_vertical"
+            android:gravity="left"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Earthquake Detected! with the magnitude of 5.3. PLease Evacuate! "
+            android:textSize="20sp"
+            android:padding="8dp"
+            android:layout_gravity="center_vertical"
+            android:gravity="left"/>
 
         <ScrollView
             android:layout_width="match_parent"
